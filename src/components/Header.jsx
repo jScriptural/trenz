@@ -6,11 +6,12 @@ import menuClose from "../assets/icon-menu-close.svg";
 import {Link} from "react-router-dom";
 
 const navLinks = [
+  "Home",
   "Technology",
   "Education",
   "Business",
   "Politics",
-  "Sports"
+  "Sports",
 ];
 
 const variants = {
