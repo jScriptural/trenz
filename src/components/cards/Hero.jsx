@@ -5,7 +5,6 @@
 
 export default function Hero(props){
   const {data} = props;
- // const regex = /.*?\/\/(.*?)\//;
   const domain = data.lnk.match(/.*?\/\/(.*?)\//)[1];
 
   return (

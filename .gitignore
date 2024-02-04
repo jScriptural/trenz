@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Images used for development
+public/*.jpg
+public/*.png
+public/*.svg

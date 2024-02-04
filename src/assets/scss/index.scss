@@ -22,9 +22,10 @@
     font-size: 15px;
     box-sizing: border-box;
     font-family: "Kumbh sans",Inter,system-ui, Avenir, Helvetica, Arial, sans-serif;
+    //font-family: Inter,system-ui, Avenir, Helvetica, Arial, sans-serif;
     line-height:1.5 ;
-
-    /*  color-scheme: light dark;*/
+    background: $off-white;
+    /*color-scheme: light dark;*/
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -46,6 +47,18 @@ body, h1, h2, h3, h4, h5, h6, p {
 img {
     width: 100%;
 }
+
+h1,h2 {
+  font-family: Inter;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: $very-dark-blue;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+  
 body {
    width: 100vw;
    min-height: 100vh;
