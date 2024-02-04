@@ -3,7 +3,7 @@
 
 
 
-export default function Politics(props){
+export default function Politics(){
   
   return (
     <section>

@@ -3,7 +3,7 @@
 
 
 
-export default function Technology(props){
+export default function Technology(){
   
   return (
     <section>

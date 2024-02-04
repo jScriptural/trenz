@@ -26,7 +26,7 @@ function combine(anondb,...args){
 
 
 function shuffle(arr){
-  arr.sort((a,b)=>Math.random() - 0.5);
+  arr.sort(()=>Math.random() - 0.5);
 }
 
 const h1 = {
@@ -38,13 +38,13 @@ const h2 =  {
 
 combine(anondb,educdb,busdb,techdb,sportdb,poldb);
 
-export default function Home(props){
+export default function Home(){
   shuffle(anondb);
   let poster  = Math.floor(Math.random()*(anondb.length));
 
   return (
     <section id="home">
-      <h1 style={h1}>What's popping | Trends </h1>
+      <h1 style={h1}>What&apos;s popping | Trends </h1>
       <Hero data={anondb[poster]}></Hero>
       <h2 style={h2}>Also trending</h2>
       <hr/>

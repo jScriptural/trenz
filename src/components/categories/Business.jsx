@@ -2,7 +2,7 @@
 
 
 
-export default function Business(props){
+export default function Business(){
   
   return (
     <section>

@@ -3,7 +3,7 @@
 
 
 
-export default function Sport(props){
+export default function Sport(){
   
   return (
     <section>

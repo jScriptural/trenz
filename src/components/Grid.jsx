@@ -1,7 +1,8 @@
 
 
 
-export default function Grid({children}){
+export default function Grid(props){
+  const {children} = props;
   return (
     <section id="grid">
       {children}

@@ -40,15 +40,14 @@ export default function Header(){
   return (
     <header id="header">
       <section>
-    <object type="image/png" data={logo} arial-label="logo">
-	</object>
+    <object type="image/png" data={logo}></object>
 
 	<nav> 
-	  <div className="menu-open" onClick={()=>setShowMenu(true)} role="region">
-	    <img  src={menuIcon}  alt="open-menu-icon"/>
-	  </div>
-	  <AnimatePresence>
-	    {showMenu && (<motion.div  variants={variants} initial="start" animate="finish" exit="exit" className="nav-mobile" role="region">
+    <div className="menu-open" onClick={()=>setShowMenu(true)} role="region">
+    <img  src={menuIcon}  alt="open-menu-icon"/>
+    </div>
+    <AnimatePresence>
+      {showMenu && (<motion.div  variants={variants} initial="start" animate="finish" exit="exit" className="nav-mobile" role="region">
 	      <div className="menu-close" onClick={()=>setShowMenu(false)} role="group">
 		<img  src={menuClose} alt="close-menu-icon"/>
 	      </div>
@@ -56,27 +55,27 @@ export default function Header(){
 	      {navLinks.map((link,i)=>(
 		<li className="nav-links" key={i}>
 		  <Link className="link" to={link.toLowerCase()}>
-		    {link}
+		  {link}
 		  </Link>
 		</li>
 	      ))}
 	      </ul>
-	    </motion.div>)}
-	  </AnimatePresence>
-	  <div className="nav-desktop">
+	      </motion.div>)}
+	    </AnimatePresence>
+	    <div className="nav-desktop">
 	    <ul>
-	    {navLinks.map((link,i)=>(
-	      <li className="nav-links" key={i}>
+	      {navLinks.map((link,i)=>(
+		<li className="nav-links" key={i}>
 		<Link className="link" to={link.toLowerCase()}>
-	      {link}
-	      </Link>
-	      </li>
-	    ))}
+		{link}
+		</Link>
+		</li>
+	      ))}
 	    </ul>
 	  </div>
 	</nav>
-      </section>
-    </header>
+    </section>
+  </header>
   );
 }
 	
