@@ -1,0 +1,33 @@
+
+
+
+#footer {
+  background-color: $very-dark-blue;
+  color: $off-white;
+  //border: 1px solid red;
+  margin: 3rem 0 0;
+  padding: 2rem;
+  font-size: 1.3rem;
+  li {
+    list-style: none;
+  }
+  h1 {
+    color: inherit;
+  }
+  a {
+    text-decoration: none;
+    color: $teal;
+  }
+  .socials {
+    margin-bottom: 2rem;
+  }
+  .categories {
+    margin-bottom: 2rem;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}

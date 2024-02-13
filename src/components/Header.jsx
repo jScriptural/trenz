@@ -7,6 +7,7 @@ import {Link} from "react-router-dom";
 
 const navLinks = [
   "Home",
+  "About Us",
   "Technology",
   "Education",
   "Business",
@@ -78,4 +79,5 @@ export default function Header(){
   </header>
   );
 }
-	
+
+export {navLinks};

@@ -2,20 +2,27 @@
 
 const sportdb = [
   {
-    ctim:980192386777,
-    lnk:"https://skysport.com/kelmathic/tweets/t98655",
-    hdl: "The Super Eagles of Nigeria Advance to the Semi after Defeating the Super Antelope of Angola.",
-    imgSrc: "/IMG_20220809_112442_019.jpg",
-    tag: "sports",
+    ctim: 13555,
+    lnk: "https://www.nbcnews.com/news/sports/baseballs-spring-training-now-starting-football-season-even-ends-rcna137920",
+    hdl: "Baseball's spring training is now starting before the football season even ends",
+    imgSrc: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-02/240209-los-angeles-dogers-yamamoto-mn-0908-4c379a.jpg",
+    tag: "baseball",
+  },
+  {
+    ctim: 1111111,
+    lnk: "https://www.vanguardngr.com/2024/02/afcon-2023-william-troost-ekong-wins-player-of-the-tournament/ ",
+    hdl: "AFCON Awards: Troost-Ekong wins Player of the tournament [See Full list] ",
+    imgSrc: "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/ekong-troost-player.jpeg ",
+    tag: "sport",
+  },
+  {
+    ctim:12333,
+    lnk: "https://www.vanguardngr.com/2024/02/afcon-2023-peseiro-should-be-sacked-peterside/ ",
+    hdl: "AFCON 2023: Peseiro should be sacked — Peterside ",
+    imgSrc:"https://cdn.vanguardngr.com/wp-content/uploads/2024/01/Peseiro.webp ",
+    tag:"sport",
   }
 ];
 
-/*960x0.jpg                    IMG_20221002_180206_587.jpg
-IMG_20220522_092800_086.jpg  IMG_20221019_162410_877.jpg
-IMG_20220522_163352_243.jpg  IMG_20230303_113610_207.jpg
-IMG_20220522_165027_633.jpg  IMG_20230303_113624_807.jpg
-IMG_20220626_121614_221.jpg  IMG_20230701_094632_518.jpg
-IMG_20220809_112442_019.jpg  fonts
-IMG_20220809_112449_961.jpg*/
 export default sportdb;
 

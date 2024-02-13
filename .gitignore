@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 # Images used for development
-public/*.jpg
+public/IMG*.jpg
 public/*.png
 public/*.svg

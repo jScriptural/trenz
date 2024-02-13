@@ -1,0 +1,19 @@
+
+
+#about {
+  //border: 1px solid red;
+  h1 {
+    padding: 0 1rem;
+  }
+  p {
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-bottom: 110%;
+    &:first-letter {
+      font-size: 1.5rem;
+      color: $teal;
+      font-weight: bold;
+    }
+  }
+}

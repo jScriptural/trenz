@@ -51,7 +51,7 @@ img {
 h1,h2 {
   font-family: Inter;
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: $very-dark-blue;
 }
 
@@ -67,6 +67,8 @@ body {
 @import "components/header";
 @import "components/hero";
 @import "components/grid";
+@import "components/footer";
+@import "components/about";
 /*
 @import "components/bottom";
 @import "components/container";*/

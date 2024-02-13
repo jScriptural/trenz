@@ -1,6 +1,8 @@
 import {Routes,Route} from "react-router-dom";
 import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx";
 import Home from "./components/Home.jsx";
+import About from "./components/About.jsx";
 import Technology  from "./components/categories/Technology.jsx";
 import Education  from "./components/categories/Education.jsx";
 import Business  from "./components/categories/Business.jsx";
@@ -16,6 +18,7 @@ function App() {
     <Header />
     <Routes >
       <Route path="/" element={< Home />} />
+      <Route path="/about us" element={< About />} />
       <Route path="/technology" element={< Technology />} />
       <Route path="/education" element={< Education />} />
       <Route path="/business" element={< Business />} />
@@ -23,6 +26,7 @@ function App() {
       <Route path="/sports" element={< Sport />} />
       <Route path="/home" element={< Home />} />
     </Routes>
+    <Footer />
     </>
   )
 }
