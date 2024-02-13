@@ -1,6 +1,12 @@
 
 const poldb = [
-
+  {
+    ctim: 12345,
+    lnk: "https://nairametrics.com/2024/02/13/uk-to-sign-new-trade-deal-with-nigeria-to-allow-u-k-lawyers-practise-in-nigeria/",
+    hdl: "UK to sign new trade deal with Nigeria, to allow U.K lawyers practise in Nigeria",
+    imgSrc: "https://nairametrics.com/wp-content/uploads/2024/01/Screenshot-2024-01-22-061718.png",
+    tag: "law",
+  },
   {
     ctim: 9743,
     lnk: "https://www.bbc.com/news/world-middle-east-68281213?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign_type=owned&at_format=link&at_ptr_name=twitter&at_bbc_team=editorial&at_medium=social&at_campaign=Social_Flow&at_link_type=web_link&at_link_id=82C0A6B0-CA28-11EE-8E58-A6ABD0B4AF07&at_link_origin=BBCWorld",
