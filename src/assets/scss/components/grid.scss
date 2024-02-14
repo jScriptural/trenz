@@ -2,8 +2,7 @@
 
 #grid {
   padding: .2rem;
-  margin-top: 2rem;
-  margin-bottom: 100%;
+  margin: 2rem 0 100%;
   //border: 1px solid red;
   display: grid;
   grid: auto  / repeat(2,1fr);
@@ -13,8 +12,4 @@
   grid-auto-flow: row;
   justify-content: space-evenly;
   align-content: space-evenly;
-  &>* {
-    //border: 1px solid blue;
-  }
-
 }
