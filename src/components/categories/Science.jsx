@@ -1,9 +1,9 @@
 import {useEffect} from "react";
 import Grid from "../Grid.jsx";
 import Hero from "../cards/Hero.jsx";
-import techdb from "../../db/tech.js";
+import scidb from "../../db/sci.js";
 
-export default function Technology(){
+export default function Science(){
   
   useEffect(()=>{
     window.scrollTo({
@@ -14,10 +14,10 @@ export default function Technology(){
 
   return (
     <section>
-      <h1>Technology Trend </h1>
+      <h1>Science & Discoveries </h1>
       <hr/>
       <Grid>
-	{techdb.map((data,i)=>(
+	{scidb.map((data,i)=>(
 	  <Hero data={data} key={i}></Hero>
 	))}
       </Grid>

@@ -2,6 +2,13 @@
 
 const busdb = [
   {
+    ctim:"8:32",
+    lnk: "https://www.searchenginejournal.com/google-adsense-shifts-to-ecpm-payment-model/508132/",
+    hdl: "Google AdSense Shifts To eCPM Payment Model",
+    imgSrc: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/img_2024-02-13-153336-65cbd26a22d3e-sej-760x400.webp",
+    tag: "adSense",
+  },
+  {
     ctim: 135677,
     lnk: "https://african.business/2024/02/politics/the-ankara-consensus-how-turkey-is-boosting-influence-in-rising-africa?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1707788335",
     hdl:"The Ankara Consensus: How Turkey is boosting influence in rising Africa",

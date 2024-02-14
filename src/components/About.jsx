@@ -1,8 +1,14 @@
-
-
+import {useEffect} from "react";
 
 
 export default function About() {
+
+  useEffect(()=>{
+    window.scrollTo({
+      behavior: "smooth",
+      top: 0,
+      left:0});
+  });
 
   return (
     <section id="about">

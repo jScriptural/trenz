@@ -1,6 +1,20 @@
 
 const poldb = [
   {
+    ctim:23444,
+    lnk: "https://www.bbc.com/news/world-europe-68293760?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_format=link&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_campaign_type=owned&at_medium=social&at_link_origin=BBCWorld&at_link_id=B4ACD1A0-CB52-11EE-BBF9-73894B3AC5C4",
+    hdl:"Nicolas Sarkozy gets six months for illegal campaign funding",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/7DD7/production/_132651223_2a65f70dac4495fc10f3c17c36badcb7ddfe1df00_273_2382_13402382x1340.jpg.webp",
+    tag:"election",
+  },
+  {
+    ctim:  1234,
+    lnk: "https://www.premiumtimesng.com/news/top-news/668473-ghanas-president-reshuffles-cabinet-10-months-to-general-elections.html?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+    hdl: "Ghana’s President reshuffles cabinet 10 months to general elections",
+    imgSrc: "https://media.premiumtimesng.com/wp-content/files/2020/04/Nana-Akufo-Addo-768x512.jpg",
+    tag:"politics",
+  },
+  {
     ctim: 12345,
     lnk: "https://nairametrics.com/2024/02/13/uk-to-sign-new-trade-deal-with-nigeria-to-allow-u-k-lawyers-practise-in-nigeria/",
     hdl: "UK to sign new trade deal with Nigeria, to allow U.K lawyers practise in Nigeria",

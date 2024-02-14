@@ -3,7 +3,7 @@ import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 import Home from "./components/Home.jsx";
 import About from "./components/About.jsx";
-import Entertainment  from "./components/categories/Entertainment.jsx";
+import Science  from "./components/categories/Science.jsx";
 import Technology  from "./components/categories/Technology.jsx";
 import Business  from "./components/categories/Business.jsx";
 import Politics  from "./components/categories/Politics.jsx";
@@ -23,7 +23,7 @@ function App() {
       <Route path="/business" element={< Business />} />
       <Route path="/politics" element={< Politics />} />
       <Route path="/sports" element={< Sport />} />
-      <Route path="/entertainment" element={< Entertainment />} />
+      <Route path="/science" element={< Science />} />
     </Routes>
     <Footer />
     </>

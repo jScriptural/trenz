@@ -1,4 +1,5 @@
 
+import {useEffect} from "react";
 import Hero from "./cards/Hero.jsx";
 import Grid from "./Grid.jsx";
 
@@ -6,7 +7,7 @@ import techdb from "../db/tech.js";
 import sportdb from "../db/sport.js";
 import busdb from "../db/bus.js";
 import poldb from "../db/pol.js";
-import entrtdb from "../db/entrt.js";
+import scidb from "../db/sci.js";
 
 
 const anondb = [];
@@ -36,15 +37,23 @@ const h2 =  {
   marginTop: "1rem",
 }
 
-combine(anondb,busdb,techdb,sportdb,poldb);
+combine(anondb,busdb,techdb,sportdb,poldb,scidb);
 
 export default function Home(){
   shuffle(anondb);
   let poster  = Math.floor(Math.random()*(anondb.length));
 
+
+  useEffect(()=>{
+    window.scrollTo({
+      behavior: "smooth",
+      top: 0,
+      left:0});
+  });
+
   return (
     <section id="home">
-      <h1 style={h1}>What&apos;s popping | Trends </h1>
+      <h1 style={h1}>What&apos;s popping <br/> Trends </h1>
       <Hero data={anondb[poster]}></Hero>
       <h2 style={h2}>Also trending</h2>
       <hr/>
