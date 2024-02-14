@@ -27,7 +27,7 @@ export default function Footer(){
 	<h2> Categories </h2>
 	<ul>
 	  {navLinks.map((link,i)=>(<li className="nav-links" key={i}>
-	    <Link className="link" to={link.toLowerCase()}>{link}</Link>
+	    <Link className="link" to={link == "Home"?"/":link.toLowerCase()}>{link}</Link>
 	    </li>
 	  ))}
 	</ul>

@@ -24,7 +24,6 @@ function App() {
       <Route path="/business" element={< Business />} />
       <Route path="/politics" element={< Politics />} />
       <Route path="/sports" element={< Sport />} />
-      <Route path="/home" element={< Home />} />
     </Routes>
     <Footer />
     </>
