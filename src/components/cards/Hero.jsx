@@ -14,7 +14,7 @@ export default function Hero(props){
 	    <i className="fa fa-circle"></i>
 	    {data.tag}</span>
 	  </p>
-	  <span className="domain">-{domain}-</span>
+	  <span className="domain">{domain}</span>
 	</figcaption>
       </a>
     </figure>

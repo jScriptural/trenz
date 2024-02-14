@@ -8,8 +8,8 @@ import {Link} from "react-router-dom";
 const navLinks = [
   "Home",
   "About Us",
+  "Entertainment",
   "Technology",
-  "Education",
   "Business",
   "Politics",
   "Sports",

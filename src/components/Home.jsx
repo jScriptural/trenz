@@ -3,10 +3,10 @@ import Hero from "./cards/Hero.jsx";
 import Grid from "./Grid.jsx";
 
 import techdb from "../db/tech.js";
-import educdb from "../db/educ.js";
 import sportdb from "../db/sport.js";
 import busdb from "../db/bus.js";
 import poldb from "../db/pol.js";
+import entrtdb from "../db/entrt.js";
 
 
 const anondb = [];
@@ -36,7 +36,7 @@ const h2 =  {
   marginTop: "1rem",
 }
 
-combine(anondb,educdb,busdb,techdb,sportdb,poldb);
+combine(anondb,busdb,techdb,sportdb,poldb);
 
 export default function Home(){
   shuffle(anondb);

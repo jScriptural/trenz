@@ -1,20 +1,19 @@
 import Grid from "../Grid.jsx";
 import Hero from "../cards/Hero.jsx";
-import educdb from "../../db/educ.js";
+import entrtdb from "../../db/entrt.js";
 
-export default function Education(){
+export default function Politics(){
   
   return (
     <section>
-      <h1> The State of Education  </h1>
+      <h1>Headlines On Entertainmaent</h1>
       <hr/>
       <Grid>
-	{educdb.map((data,i)=>(
+	{entrtdb.map((data,i)=>(
 	  <Hero data={data} key={i}></Hero>
 	))}
       </Grid>
     </section>
   );
 }
-
 

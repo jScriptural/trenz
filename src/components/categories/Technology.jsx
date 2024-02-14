@@ -6,7 +6,7 @@ export default function Technology(){
   
   return (
     <section>
-      <h1> Tech trends </h1>
+      <h1>Technology Trend </h1>
       <hr/>
       <Grid>
 	{techdb.map((data,i)=>(

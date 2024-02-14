@@ -6,7 +6,7 @@ export default function Politics(){
   
   return (
     <section>
-      <h1> Politics Today </h1>
+      <h1> Headlines On Politics</h1>
       <hr/>
       <Grid>
 	{poldb.map((data,i)=>(

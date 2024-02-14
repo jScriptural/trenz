@@ -6,7 +6,7 @@ export default function Business(){
   
   return (
     <section>
-      <h1> Business News</h1>
+      <h1> Business headlines</h1>
       <hr/>
       <Grid>
 	{busdb.map((data,i)=>(

@@ -7,7 +7,7 @@
   //border: 1px solid red;
   margin: 3rem 0 0;
   padding: 2rem;
-  font-size: 1.3rem;
+  //font-size: 1.2rem;
   li {
     list-style: none;
   }
@@ -28,13 +28,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
+    font-weight: 500;
   }
   .contact{
     margin-bottom: 2rem;
     h3 {
       color: inherit;
-      font-weight: bold;
     }
     p {
       color: $teal;

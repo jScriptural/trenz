@@ -19,7 +19,7 @@
 }
 
 :root {     
-    font-size: 16px;
+    font-size: 15px;
     box-sizing: border-box;
     font-family: "Kumbh sans",Inter,system-ui, Avenir, Helvetica, Arial, sans-serif;
     //font-family: Inter,system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -48,17 +48,21 @@ img {
     width: 100%;
 }
 
-h1,h2 {
+h1,h2,h3{
   font-family: Inter;
-  font-weight: 800;
-  font-size: 2rem;
+  font-weight: 600;
+  font-size: 1.4rem;
   color: $very-dark-blue;
 }
 
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
 }
-  
+h3 {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
 body {
    width: 100vw;
    min-height: 100vh;
