@@ -15,5 +15,14 @@
       color: $teal;
       font-weight: bold;
     }
+    b {
+      color: $teal;
+    }
+
+    ul {
+      li {
+	list-style: none;
+      }
+    }
   }
 }

@@ -2,6 +2,13 @@
 
 const busdb = [
   {
+    __ctim: 9.07,
+    lnk: "https://www.bbc.com/news/business-68299334?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBCNews&at_ptr_name=twitter&at_format=link&at_link_id=0F4C098E-CBD8-11EE-922C-C1DE4B3AC5C4&at_campaign=Social_Flow&at_link_type=web_link&at_medium=social",
+    hdl: "Faisal Islam: Should we care that the UK is in recession?",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/5695/production/_132656122_gettyimages-1781991657-1.jpg.webp",
+    tag:"recession,economy",
+  },
+  {
     __ctim: 6.37,
     lnk: "https://www.vanguardngr.com/2024/02/nigerias-real-estate-to-hit-2-26trn-in-2024-despite-challenges/",
     hdl: "Nigeria’s real estate to hit $2.26trn in 2024 despite challenges",
