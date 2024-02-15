@@ -1,6 +1,20 @@
 
 const poldb = [
   {
+    __ctim: 6.45,
+    lnk: "https://nairametrics.com/2024/02/15/fg-signs-mou-to-receive-2000-tractors-annually-for-5-years-to-boost-mechanised-farming/",
+    hdl: "FG signs MoU to receive 2000 tractors annually for 5 years to boost mechanised farming",
+    imgSrc: "https://nairametrics.com/wp-content/uploads/2023/10/American-firm-John-Deere-to-establish-tractor-assembly-plant-in-Nigeria-678x375.jpeg",
+    tag: "agriculture,farming,food",
+  },
+  {
+    __ctim: 6.41,
+    lnk: "https://cdn.vanguardngr.com/wp-content/uploads/2018/08/housing-089.jpg",
+    hdl: "‘Student loan scheme likely to be launched in three weeks’- Gbajabiamila",
+    imgSrc: "https://nairametrics.com/wp-content/uploads/2023/06/Femi-Gbajabiamila-700x375.jpg",
+    tag: "education,loan scheme",
+  },
+  {
     __ctim:5.23,
     lnk: "https://edition.cnn.com/2024/02/14/africa/un-concerned-about-tense-situation-in-senegal-intl/index.html",
     hdl: "UN raises alarm over escalating tensions in Senegal after election delay",

@@ -2,6 +2,34 @@
 
 const sportdb = [
   {
+    __ctim: 7.14,
+    lnk: "https://www.bbc.com/news/world-us-canada-68248172",
+    hdl: "Kansas City shooting: One dead and 21 injured near Super Bowl parade",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/BE69/production/_132654784_sbp3.jpg.webp",
+    tag: "super bowl, violence",
+  },
+  {
+    __ctim: 7.07,
+    lnk: "https://www.bbc.com/sport/football/68289916",
+    hdl: "Pressure builds on Tuchel",
+    imgSrc: "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/FDB1/production/_132654946_gettyimages-2011172884-1.jpg",
+    tag: "football,champions league",
+  },
+  {
+    __ctim:7.03,
+    lnk: "https://nba.com/news/pacers-tyrese-haliburton-all-star-2024",
+    hdl: "Tyrese Haliburton's journey from kid with a dream to All-Star starter",
+    imgSrc: "https://cdn.nba.com/manage/2024/02/IMG_3474-1-768x432.jpg",
+    tag: "nba,all-star,basketball",
+  },
+  {
+    __ctim: 6.58,
+    lnk: "https://triblive.com/sports/michigan-state-pulls-away-in-the-first-half-beats-penn-state-80-72-behind-halls-career-high-29/",
+    hdl: "Michigan State pulls away in the first half, beats Penn State 80-72 behind Hall's career-high 29",
+    imgSrc: "https://assets-varnish.triblive.com/2024/02/7053750_web1_7053750-e250c88c5f5948d5a740b15e3e9ba860.jpg",
+    tag: "basketball,nba",
+  },
+  {
     __ctim: 6.04,
     lnk: "https://skysports.com/football/news/11667/13071448/newcastle-sporting-director-ashworth-approached-by-man-utd",
     hdl: "Newcastle sporting director Ashworth approached by Man Utd",

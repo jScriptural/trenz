@@ -2,6 +2,14 @@
 
 const busdb = [
   {
+    __ctim: 6.37,
+    lnk: "https://www.vanguardngr.com/2024/02/nigerias-real-estate-to-hit-2-26trn-in-2024-despite-challenges/",
+    hdl: "Nigeria’s real estate to hit $2.26trn in 2024 despite challenges",
+    imgSrc: "https://cdn.vanguardngr.com/wp-content/uploads/2018/08/housing-089.jpg",
+    tag: "real estate,housing",
+
+  },
+  {
     __ctim: 5.42,
     lnk:" https://abcnews.go.com/International/wireStory/japan-slips-worlds-fourth-largest-economy-us-china-107247666",
     hdl: "Japan slips to the world's fourth-largest economy, behind the US, China and now Germany",

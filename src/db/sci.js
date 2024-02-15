@@ -1,5 +1,12 @@
 const scidb = [
   {
+    __ctim: 6.50,
+    lnk: "https://www.newscientist.com/article/2414433-slight-flight-altitude-changes-could-slash-aviations-climate-impact/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1707972021",
+    hdl: "Slight flight altitude changes could slash aviation's climate impact",
+    imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/01/29204642/SEI_189196398.jpg?width=700",
+    tag: "environment,climate change,aviation",
+  },
+  {
     __ctim: 6.23,
     lnk: "https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
     hdl: "Saturn's largest moon most likely uninhabitable",
