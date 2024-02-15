@@ -18,7 +18,7 @@ function combine(anondb,...args){
     let j = 0;
     while(len > 0){
       anondb.push(arr[j++]);
-      if(j >= 6)
+      if(j >= 10)
 	break;
       --len;
     }
