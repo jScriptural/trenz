@@ -2,6 +2,13 @@
 
 const busdb = [
   {
+    __ctim: 5.42,
+    lnk:" https://abcnews.go.com/International/wireStory/japan-slips-worlds-fourth-largest-economy-us-china-107247666",
+    hdl: "Japan slips to the world's fourth-largest economy, behind the US, China and now Germany",
+    imgSrc: "/japan-move-to-become-the-fourth-largest-economy.jpg",
+    tag: "economy",
+  },
+  {
     __ctim: 5.27,
     lnk: "https://edition.cnn.com/2024/02/14/business/cisco-to-lay-off-thousands/index.html",
     hdl: "Cisco to lay off thousands of employees",

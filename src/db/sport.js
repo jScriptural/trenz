@@ -2,6 +2,13 @@
 
 const sportdb = [
   {
+    __ctim: 6.04,
+    lnk: "https://skysports.com/football/news/11667/13071448/newcastle-sporting-director-ashworth-approached-by-man-utd",
+    hdl: "Newcastle sporting director Ashworth approached by Man Utd",
+    imgSrc: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQyzM4mjzNHJNew1SejfsXZ1m9x5lj2vpn2qQS6hd5PWxIRgYJ1XrpmX2Q3Lv6shhBI5dfBovWhTjS2IdU",
+    tag: "football",	
+  },
+  {
     __ctim: 5.33,
     lnk: "https://hindustantimes.com/cricket/india-vs-england-live-score-3rd-test-day-1-cricket-match-today-15-february-ind-vs-eng-match-in-saurashtra-stadium-rajkot-101707936573268-amp.html",
     hdl: "India vs England Live Score 3rd Test Day 1, IND vs ENG: Jaiswal falls after India opt to bat; Sarfaraz, Jurel make debut",

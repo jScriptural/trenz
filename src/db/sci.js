@@ -1,5 +1,40 @@
 const scidb = [
   {
+    __ctim: 6.23,
+    lnk: "https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+    hdl: "Saturn's largest moon most likely uninhabitable",
+    imgSrc: "https://scx1.b-cdn.net/csz/news/800a/2024/saturns-largest-moon-m-1.jpg?f=webp",
+    tag: "astrobiology,planets",
+  },
+  {
+    __ctim: 6.16,
+    lnk: "https://www.newscientist.com/article/2417057-half-of-the-amazon-may-be-pushed-to-climate-tipping-point-by-2050/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1707948744",
+    hdl: "Half of the Amazon may be pushed to climate tipping point by 2050",
+    imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/02/14132525/SEI_191280966.jpg?width=700",
+    tag: "climate change,environment",
+  },
+  {
+    __ctim: 6.10,
+    lnk: "https://medicalxpress.com/news/2024-02-epigenetic-clocks-reinvent-age.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+    hdl: "New epigenetic clocks reinvent how we measure age",
+    imgSrc: "https://scx1.b-cdn.net/csz/news/800a/2024/new-epigenetic-clocks.jpg?f=webp",
+    tag: "medicine,aging",
+  },
+  {
+    __ctim: 5.56,
+    lnk: "https://phys.org/news/2024-02-anthropologists-unveils-early-stone-plaza.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+    hdl: "Anthropologists' research unveils early stone plaza in the Andes",
+    imgSrc: "https://scx1.b-cdn.net/csz/news/800a/2024/uw-anthropologists-res.jpg?f=webp",
+    tag: "anthropology,architecture",
+  },
+  {
+    __ctim: 5.38,
+    lnk: "https://abcnews.go.com/International/half-worlds-migratory-species-decline-report-warns/story?id=107229331",
+    hdl: "Nearly half of the world's migratory species are in decline, UN report warns",
+    imgSrc: "https://i.abcnewsfe.com/a/1bfc8d1a-9e7d-44e2-8c98-83e3b6f7e381/humpback-whale-ap-jef-240214_1707930065649_hpEmbed_21x13.jpg",
+    tag: "extinction,wildlife",
+  },
+  {
     __ctim: 5.21,
     lnk: "https://edition.cnn.com/2024/02/14/climate/amazon-rainforest-climate-deforestation-collapse-int/index.html",
     hdl: "The Amazon has survived changes in the climate for 65 million years. Now it’s heading for collapse, a study says",
