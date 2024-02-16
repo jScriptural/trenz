@@ -1,6 +1,27 @@
 
 const techdb = [
   {
+    __ctim: 7.03,
+    lnk: "https://www.theregister.com/2024/02/15/microsoft_retires_azure_iot_central/",
+    hdl: "Microsoft 'retires' Azure IoT Central in platform rethink",
+    imgSrc: "/azure-to-retires-iot-central.jpg",
+    tag: "azure,microsoft,iot,cloud",
+  },
+  {
+    __ctim: 6.56,
+    lnk: "https://openai.com/sora",
+    hdl: "Sora is an AI model that can create realistic and imaginative scenes from text instructions.",
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD00m78FryAUS742cJ4KLvJ5cbo2GI_Gi4I2pqYHuR5_nM6T59h3byheuc&s=10",
+    tag: "AI,video,sora,openai",
+  },
+  {
+    __ctim: 6.50,
+    lnk: "https://blog.google/technology/ai/long-context-window-ai-models/?utm_source=tw&utm_medium=social&utm_campaign=gemini24&utm_content=&utm_term=",
+    hdl: "What is a long context window?",
+    imgSrc: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Long_Context_Window_Hero_9.gif",
+    tag: "AI,context,window,gemini",
+  },
+  {
     __ctim: 9.45,
     lnk: "https://www.newscientist.com/subject/technology/",
     hdl: "Quantum computer uses a time crystal as a control dial",

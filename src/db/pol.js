@@ -1,6 +1,13 @@
 
 const poldb = [
   {
+    __ctim: 7.16,
+    lnk: "https://bbc.com/news/live/world-68316979?at_medium=social&at_link_id=83676B2A-CCF4-11EE-965D-F00CAAF30DC0&at_format=link&at_link_origin=BBCBreaking&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter",
+    hdl: "In Navalny address, Biden takes aim at Trump and Republicans",
+    imgSrc: "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2024/2/16/fd4e7182-9f73-4d50-8216-f4feb06ffbf9.jpg",
+    tag: "putin,biden,opposition,russia",
+  },
+  {
     __ctim: 4.05,
     lnk:"https://bbc.com/news/world-europe-68305050?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCNews&at_campaign_type=owned&at_link_type=web_link&at_medium=social&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=3B852EE2-CC76-11EE-BB70-1B8C4B3AC5C4&at_format=link&at_ptr_name=twitter",
     hdl: "The KGB spy who rubbed shoulders with French elites for decades",

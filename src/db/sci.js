@@ -1,5 +1,12 @@
 const scidb = [
   {
+    __ctim: 19.26,
+    lnk:" https://phys.org/news/2024-02-species-pirate-spiders-south-atlantic.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+    hdl: "New species of pirate spiders discovered on South Atlantic island",
+    imgSrc: "https://scx1.b-cdn.net/csz/news/800a/2024/new-species-of-pirate-2.jpg?f=webp",
+    tag: "evolution,ecology,spiders",
+  },
+  {
     __ctim: 9.37,
     lnk: "https://www.science.org/content/article/counting-nemo-clownfish-may-be-capable-simple-math?utm_medium=ownedSocial&utm_source=Twitter&utm_campaign=NewsfromScience",
     hdl: "Clownfish may be capable of simple math",
