@@ -1,6 +1,20 @@
 
 const techdb = [
   {
+    __ctim: 22.47,
+    lnk: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/?taid=65cfd63a88998b0001e3a4c2&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl:"SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports",
+    imgSrc: "https://www.reuters.com/resizer/KcwifCag8Jf6uexUUx84dHE3pe4=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XGYF43Q7DRIQ7KRXME2SESRIGE.jpg",
+    tag: "AI,chip,venture,funding",
+  },
+  {
+    __ctim: 22.40,
+    lnk: "https://www.popularmechanics.com/technology/security/a46773060/sentience-vs-consciousness-in-artificial-intelligence-systems/?taid=65cfd20570a0d90001ca2833&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+    hdl: "The Truth About Sentient AI: Could Machines Ever Really Think or Feel?",
+    imgSrc: "https://hips.hearstapps.com/hmg-prod/images/humanoid-robots-facing-each-other-royalty-free-illustration-1707861511.jpg?crop=0.597xw:1.00xh;0.207xw,0&resize=640:*",
+    tag: "AI,consciousness,Think,emotion,machine",
+  },
+  {
     __ctim: 7.03,
     lnk: "https://www.theregister.com/2024/02/15/microsoft_retires_azure_iot_central/",
     hdl: "Microsoft 'retires' Azure IoT Central in platform rethink",

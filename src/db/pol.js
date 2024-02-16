@@ -1,7 +1,14 @@
 
 const poldb = [
   {
-    __ctim: 7.16,
+    __ctim: 22.35,
+    lnk: "https://www.reuters.com/world/africa/senegal-factions-should-consult-over-election-timing-government-says-2024-02-16/",
+    hdl: "Senegal's Sall promises to hold delayed presidential vote as soon as possible",
+    imgSrc: "https://www.reuters.com/resizer/IcTpijxfIMtpo7aLBdgo2DKD_Do=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWKH3TEQPBMB3L76BFFCI7QQVU.jpg",
+    tag: "election,senegal,postpone",
+  },
+  {
+    __ctim: 19.16,
     lnk: "https://bbc.com/news/live/world-68316979?at_medium=social&at_link_id=83676B2A-CCF4-11EE-965D-F00CAAF30DC0&at_format=link&at_link_origin=BBCBreaking&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter",
     hdl: "In Navalny address, Biden takes aim at Trump and Republicans",
     imgSrc: "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2024/2/16/fd4e7182-9f73-4d50-8216-f4feb06ffbf9.jpg",
