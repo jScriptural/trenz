@@ -2,6 +2,27 @@
 
 const busdb = [
   {
+    __ctim: 9.27,
+    lnk: "https://techpoint.africa/2024/02/16/luno-monthly-proof-reserves-report/",
+    hdl: "Luno to release monthly proof of reserves report to gain customer trust",
+    imgSrc: "https://techpoint.africa/wp-content/uploads/2023/01/Luno-768x512.jpg",
+    tag: "luno,trust,reserves,audit",
+  },
+  {
+    __ctim: 9.20,
+    lnk: "https://techpoint.africa/2024/02/16/cbn-orders-epayments-travel-allowance/",
+    hdl: "CBN orders electronic payments for travel allowance, bans cash payments",
+    imgSrc: "https://techpoint.africa/wp-content/uploads/2023/06/CBN-768x384.jpg",
+    tag: "governance,policy,cbn,pta,bta",
+  },
+  {
+    __ctim: 3.04,
+    lnk: "https://nairametrics.com/2024/02/15/remita-facilitated-n34-311-trillion-revenue-for-federation-account-between-2015-and-2022/",
+    hdl:"REMITA facilitated N34.311 trillion revenue for federation account between 2015 and 2022",
+    imgSrc: "https://nairametrics.com/wp-content/uploads/2023/11/DeRemi-Atanda-750x375.png",
+    tag: "forex,economy",
+  },
+  {
     __ctim: 9.07,
     lnk: "https://www.bbc.com/news/business-68299334?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBCNews&at_ptr_name=twitter&at_format=link&at_link_id=0F4C098E-CBD8-11EE-922C-C1DE4B3AC5C4&at_campaign=Social_Flow&at_link_type=web_link&at_medium=social",
     hdl: "Faisal Islam: Should we care that the UK is in recession?",

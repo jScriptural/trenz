@@ -1,6 +1,55 @@
 
 const techdb = [
   {
+    __ctim: 9.45,
+    lnk: "https://www.newscientist.com/subject/technology/",
+    hdl: "Quantum computer uses a time crystal as a control dial",
+    imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/02/06183658/SEI_190158240.jpg?width=700",
+    tag: "crystals,computing,quantum,computers",
+  },
+  {
+    __ctim: 12.47,
+    lnk: "https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html",
+    hdl: "How to copy a file between devices?",
+    imgSrc: "https://imgs.xkcd.com/comics/file_transfer.png",
+    tag: "computer,file, transfer,copy",
+  },
+  {
+    __ctim: 12.42,
+    lnk: "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html?m=1",
+    hdl: "Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA", 
+    imgSrc: "https://1.bp.blogspot.com/-Nc7F7ELiKcg/X6tty3pLYaI/AAAAAAAAzOM/gAxepoBzq3ANNtsZPbgm7mhWZ--cUEA4gCLcBGAsYHQ/s0/i8271.png",
+    tag:"engineering,security,ISA",
+  },
+  {
+    __ctim: 12.12,
+    lnk: "https://bbc.com/news/business-68297121?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow&at_campaign_type=owned&at_link_id=A190C8F4-CB9A-11EE-922C-C1DE4B3AC5C4&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_bbc_team=editorial",
+    hdl: "X accused of taking payments from terrorists",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/3057/production/_132657321_x_getty.jpg.webp",
+    tag: "X,twitter,terrorism,accused",
+  },
+  {
+    __ctim: 11.57,
+    lnk: "https://techpoint.africa/2024/02/14/moove-receives-funding-india-expansion/",
+    hdl: "Nigerian-born Moove receives $10 million for India expansion",
+    imgSrc: "https://techpoint.africa/wp-content/uploads/2023/06/Moove-showroom-768x575.jpg",
+    tag: "startup,funding,automobile",
+  },
+  {
+    __ctim: 11.52,
+    lnk: "https://punchng.com/google-set-to-open-paris-ai-research-hub/",
+    hdl: "Google set to open Paris AI research hub",
+    imgSrc: "https://cdn.punchng.com/wp-content/uploads/2023/10/23083508/Google-Map.jpg",
+    tag: "AI,research",
+  },
+  {
+    __ctim: 11.29,
+    lnk: "https://techcabal.com/2024/02/15/africa-regulate-ai/?utm_source=dlvr.it&utm_medium=twitter",
+    hdl: "AI Regulation is premature for Africa, says new study by Qubit Hub",
+    imgSrc: "https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2024/02/AI-regulation-690x388.jpg",
+    tag: "AI, regulatory policies",
+  },
+  {
     __ctim: 6.31,
     lnk: "https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html?m=1",
     hdl: "Critical Exchange Server Flaw (CVE-2024-21410) Under Active Exploitation",

@@ -2,6 +2,41 @@
 
 const sportdb = [
   {
+    __ctim: 3.56,
+    lnk: "https://www.reuters.com/sports/soccer/lukaku-earns-roma-draw-feyenoord-2024-02-15/",
+    hdl: "Lukaku earns Roma draw at Feyenoord",
+    imgSrc: "https://www.reuters.com/resizer/4Egntuk3S1kADPtK--dzpjveGKo=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SB2T465LHNMIPMZMSZVWVG67DM.jpg",
+    tag: "europa,football,roma,feyenoord",
+  },
+  {
+    __ctim: 3.52,
+    lnk: "https://www.reuters.com/sports/soccer/loftus-cheek-double-puts-milan-control-v-stade-rennais-2024-02-15/?taid=65cec9db47c3790001f6adde&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl: "Loftus-Cheek puts Milan in control, Qarabag stun Braga",
+    imgSrc: "https://www.reuters.com/resizer/XskTcgPrYxrokRzSxmCBW253HC8=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J4DTKMNRS5KQHGWYOYANHVBY3E.jpg",
+    tag: "ac milan, football, europa leauge",
+  },
+  {
+    __ctim: 12.59,
+    lnk: "https://chelseafc.com/en/news/article/palmer-excited-for-etihad-return",
+    hdl: "Palmer excited for Etihad return",
+    imgSrc: "https://img.chelseafc.com/image/upload/f_auto,c_fill,g_faces,w_600,h_640,q_90/editorial/news/2024/02/14/Palmer_Palace_A_GettyImages-2007650332.jpg",
+    tag: "chelsea,football,palmer,man city,epl",
+  },
+  {
+    __ctim: 12.21,
+    lnk: "https://gazettengr.com/eagles-move-up-14-spots-in-fifa-ranking-after-afcon-silver-win/",
+    hdl: "Eagles move up 14 spots in FIFA ranking after AFCON silver win",
+    imgSrc: "https://gazettengr.com/wp-content/uploads/Screenshot_20211021-132050_Quick-Grid-685x400.jpg",
+    tag: "AFCON,football,super eagles,Nigeria,FIFA ranking",
+  },
+  {
+    __ctim: 12.02,
+    lnk: "https://channelstv.com/2024/02/15/super-eagles-move-14-places-up-in-fifa-ranking-after-impressive-afcon-outing/",
+    hdl: "Super Eagles Move 14 Places Up In FIFA Ranking After Impressive AFCON",
+    imgSrc: "https://channelstv.com/wp-content/uploads/2024/02/Super-Eagles-1.jpg",
+    tag: "football,AFCON,FIFA ranking",
+  },
+  {
     __ctim: 7.14,
     lnk: "https://www.bbc.com/news/world-us-canada-68248172",
     hdl: "Kansas City shooting: One dead and 21 injured near Super Bowl parade",

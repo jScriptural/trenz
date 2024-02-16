@@ -1,6 +1,62 @@
 
 const poldb = [
   {
+    __ctim: 4.05,
+    lnk:"https://bbc.com/news/world-europe-68305050?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCNews&at_campaign_type=owned&at_link_type=web_link&at_medium=social&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=3B852EE2-CC76-11EE-BB70-1B8C4B3AC5C4&at_format=link&at_ptr_name=twitter",
+    hdl: "The KGB spy who rubbed shoulders with French elites for decades",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/12EE0/production/_132663577_gettyimages-1437384222.jpg.webp",
+    tag: "kgb,spies,espionage,france,elites",
+  },
+  {
+    __ctim: 3.47,
+    lnk: "https://reuters.com/technology/google-launch-anti-misinformation-campaign-ahead-eu-elections-2024-02-16/?utm_source=twitter&utm_medium=Social",
+    hdl: "Exclusive: Google to launch anti-misinformation campaign ahead of EU elections",
+    imgSrc: "https://www.reuters.com/resizer/zletQOrAI5BczfHumO5vE1Qo6iM=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ON76UOQCJZPLHAVIYHRVWRZBMI.jpg",
+    tag: "google,eu,censorship,elections",
+  },
+  {
+    __ctim: 3.27,
+    lnk:"https://www.bbc.com/news/world-europe-68313306?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCWorld&at_link_type=web_link&at_campaign_type=owned&at_medium=social&at_campaign=Social_Flow&at_format=link&at_bbc_team=editorial&at_link_id=529C5C3A-CC72-11EE-BB70-1B8C4B3AC5C4&at_ptr_name=twitter",
+    hdl: "Ukraine Russia war: US warns Avdiivka could fall",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/E4B2/production/_132664585_smokereuters.jpg.webp",
+    tag: "war,ukraine,russia,us",
+  },
+  {
+    __ctim: 3.16,
+    lnk: "https://tribuneonlineng.com/experts-stakeholders-to-discuss-climate-finance-at-caaf24-webinar/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1708047068",
+    hdl: "Experts, stakeholders to discuss climate finance at CAAF24 webinar",
+    imgSrc: "https://tribuneonlineng.com/wp-content/uploads/2023/05/Climate-Change.jpg",
+    tag: "climate,environment,africa,webinar,CAA",
+  },
+  {
+    __ctim: 3.13,
+    lnk: "https://www.unicef.org/press-releases/14-billion-children-globally-missing-out-basic-social-protection-according-latest",
+    hdl: "1.4 billion children globally missing out on basic social protection, according to latest data",
+    imgSrc: "https://www.unicef.org/sites/default/files/styles/press_release_feature/public/UN0685801%205%20girls.jpg.webp?itok=QvRU90_q",
+    tag: "children,unicef,social,protection",
+  },
+  {
+    __ctim: 12.28,
+    lnk: "https://www.channelstv.com/2024/02/15/why-are-indias-farmers-protesting-again/",
+    hdl: "Why Are India’s Farmers Protesting Again?",
+    imgSrc: "https://www.channelstv.com/wp-content/uploads/2024/02/Farmers-in-India-Delhi-Chalo-March-to-Delhi-New-Delhi-on-Republic-Day-2.jpg",
+    tag: "agric,farmers,protest",
+  },
+  {
+    __ctim: 12.09,
+    lnk: "https://www.vanguardngr.com/2024/02/putin-says-he-prefers-more-predictable-biden-over-trump/",
+    hdl: "Putin says he prefers more ‘predictable’ Biden over Trump",
+    imgSrc: "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/image-385.png",
+    tag: "putin,biden,trump",
+  },
+  {
+    __ctim: 11.44,
+    lnk: "https://bbc.com/news/uk-68288727?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_id=0EFB4E02-CBA3-11EE-922C-C1DE4B3AC5C4&at_format=link&at_ptr_name=twitter&at_link_origin=BBCNews&at_bbc_team=editorial&at_campaign_type=owned&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow",
+    hdl: "UK antisemitic hate incidents hit new high in 2023, says charity",
+    imgSrc: "https://ichef.bbci.co.uk/news/800/cpsprodpb/184B0/production/_132640599_gettyimages-143070453.jpg.webp",
+    tag: "antisemitism,uk,jews",
+  },
+  {
     __ctim: 6.45,
     lnk: "https://nairametrics.com/2024/02/15/fg-signs-mou-to-receive-2000-tractors-annually-for-5-years-to-boost-mechanised-farming/",
     hdl: "FG signs MoU to receive 2000 tractors annually for 5 years to boost mechanised farming",
