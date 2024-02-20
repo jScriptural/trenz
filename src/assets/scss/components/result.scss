@@ -1,0 +1,33 @@
+
+.result {
+  margin-top: 1rem;
+ // border: 1px solid blue;
+  margin-top: 1rem;
+  .q-con {
+     padding: 1rem;
+    //border: 1px solid orange;
+  }
+  .opts-list {
+    padding: 1rem;
+    list-style: none;
+    margin-top: 1rem;
+   // border: 1px solid red;
+    li {
+      margin-bottom: .5rem;
+      padding: .5rem;
+      border: 1px solid $dark-grayish-blue;
+      border-radius: .5rem;
+    }
+  }
+
+}
+
+.correct {
+  background-color: green;
+  color: $off-white;
+}
+
+.wrong {
+  background-color: red;
+  color: $off-white;
+}

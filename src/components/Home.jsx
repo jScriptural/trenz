@@ -26,7 +26,7 @@ function combine(anondb,...args){
 }
 
 
-function shuffle(arr){
+export function shuffle(arr){
   arr.sort(()=>Math.random() - 0.5);
 }
 

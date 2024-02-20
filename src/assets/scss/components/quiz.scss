@@ -1,0 +1,72 @@
+
+#quiz {
+  //border: 1px solid red;
+ // position: sticky;
+//  top: 100px;
+  margin-bottom: 100%;
+  .q-header {
+    //position: fixed;
+   // width: 100vw;
+    background-color: $very-dark-blue;
+   // border: 1px solid blue;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 1rem 0;
+    align-items: center;
+    justify-content: center;
+    h1,span {
+      color: $off-white;
+      font: {
+	family: poppins;
+	weight: 600;
+	size: 1.5rem;
+      }
+    }
+    span {
+      size: 1rem;
+      color: $teal;
+      font-weight: 400;
+    }
+  }
+
+  .main {
+    margin-bottom: 1rem;
+    font-family: poppins;
+  }
+
+  .btn-con {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    .btn {
+      //border: 1px solid $teal;
+      border: none;
+      padding: .4rem 2.1rem;
+      text-align: center;
+      border-radius: .5rem;
+      font: {
+	family: poppins;
+	size: 1.2rem;
+	weight: 400;
+      }
+      color: $teal;
+    }
+    .next {
+      background-color: $very-dark-blue;
+    }
+    .prev {
+      background-color: transparent;
+      border: 1px solid $grayish-blue;
+      transition: all 1s;
+      &:focus,&:hover {
+	background-color: $very-dark-blue;
+	border: 1px solid $very-dark-blue;
+      }
+    }
+
+
+  }
+
+}

@@ -11,7 +11,7 @@ export default function About() {
   });
 
   return (
-    <section id="about">
+    <section id="about" >
       <h1> About trenz </h1>
       <hr/>
       <p>  

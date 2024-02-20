@@ -13,6 +13,7 @@ const navLinks = [
   "Science",
   "Politics",
   "Sports",
+  "Quiz",
 ];
 
 const variants = {
