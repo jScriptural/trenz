@@ -170,6 +170,35 @@ export default [
     ],
     ans: 3,
   },
+  {
+    q: `In tennis,who holds the record for the most Grand Slam singles titles?`,
+    opts: [
+      `Roger Federer`,
+      `Rafael Nadal`,
+      `Novak Djokovic`,
+      `Serena Williams`,
+    ],
+    ans: 2,
+  },
+  {
+    q: `Which company is the largest retailer in the world by revenue?`,
+    opts: [
+      `Walmart`,
+      `Amazon`,
+      `Alibaba`,
+      `Costco`,
+    ],
+    ans: 0,
+  },
+  {
+    q: `Who won the coveted "Album of the Year" award at the 65th Grammy Awards in February 2024?`,
+    opts: [
+      `Beyonce`,
+      `Kendrick Lamar`,
+      `Harry Styles`,
+      `Bad Bunny`,
+    ],
+    ans: 2,
+  },
 ]
 
-//export default quizdb;
