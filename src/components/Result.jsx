@@ -15,7 +15,7 @@ export default function Result({quizdb}){
 	</div>
 	<ul className="opts-list">
 	 {quiz.opts.map((opt,i)=>(
-	   <li key={i} className={quiz.ans == i?"correct":(ans[qid] == i || ans[qid] == undefined)?"wrong":""}><p>{opt}</p></li>
+	   <li key={i} className={quiz.ans == i?"correct":(ans[qid] == i || ans[qid] == undefined)?"wrong":""}><p>{opt} {quiz.ans==i?<>&#x2713;</>:(ans[qid] == i || ans[qid] == undefined)?<>&#x2717;</>:""}</p></li>
 	 ))}
 	</ul>
 	</div>

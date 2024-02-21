@@ -28,7 +28,7 @@ export default function QuizCard(props){
 
 
   return (
-    <section className="quizcard"  hidden={current?false:true} >
+    <section className={current?"quizcard desktop":"quizcard"}  hidden={current?false:true} >
       <div className="question-con">
 	<p>{data.q}</p>
       </div>

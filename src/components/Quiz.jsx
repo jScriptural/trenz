@@ -54,7 +54,7 @@ export default function Quiz(props){
     </main>
     <div className="btn-con">
       <button className="btn prev" hidden={count+1 > 1?false:true} onClick={()=>setCount(count-1)}>Prev</button>
-      <button hidden={submitted}  className="btn next" onClick={count +1 < len?nexthandler:handleSubmit}>{count+1 < len?"Next":"Submit"} </button>
+      <button hidden={submitted}  className={count+1<len?"btn next":"btn submit"}  onClick={count +1 < len?nexthandler:handleSubmit}>{count+1 < len?"Next":"Submit"} </button>
     </div>
     </section>
   );

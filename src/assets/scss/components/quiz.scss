@@ -46,20 +46,27 @@
       padding: .4rem 2.1rem;
       text-align: center;
       border-radius: .5rem;
+      transition: all .3s;
       font: {
 	family: poppins;
 	size: 1.2rem;
 	weight: 400;
       }
-      color: $teal;
     }
     .next {
       background-color: $very-dark-blue;
+      color: $teal;
+    }
+    .submit {
+      background-color: $dark-teal;
+      color: $off-white;
+      font-weight: 500;
+      box-shadow: 1px 5px 1px $faded-white
     }
     .prev {
-      background-color: transparent;
-      border: 1px solid $grayish-blue;
-      transition: all 1s;
+      color: $teal;
+      background-color: $very-faded-white;
+      border: 1px solid $very-faded-white;
       &:focus,&:hover {
 	background-color: $very-dark-blue;
 	border: 1px solid $very-dark-blue;
@@ -67,6 +74,11 @@
     }
 
 
+  }
+  @include desktop {
+    .btn-con {
+      padding: 1.5rem 6%;
+    }
   }
 
 }

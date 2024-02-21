@@ -5,7 +5,9 @@
   margin-top: 1rem;
   .q-con {
      padding: 1rem;
-    //border: 1px solid orange;
+     p{
+       font-weight: 500;
+     }
   }
   .opts-list {
     padding: 1rem;
@@ -19,15 +21,38 @@
       border-radius: .5rem;
     }
   }
+  @include desktop {
+    display: grid;
+    grid: auto / 40vw 59vw;
+    grid-gap: 1rem;
+    .q-con {
+      text-align: center;
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      align-items: center;
+    }
+    .opts-list {
+      //border: 1px solid $soft-orange;
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+      li {
+	width: 80%;
+	margin-bottom: .8rem;
+      }
+    }
+  }
 
 }
-
+//008c11
 .correct {
-  background-color: green;
+  background-color: $dark-green;
   color: $off-white;
 }
 
 .wrong {
-  background-color: red;
+  background-color: $hard-red;
   color: $off-white;
 }
