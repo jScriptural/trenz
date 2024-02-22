@@ -1,8 +1,15 @@
 
 const techdb = [
   {
+    __ctim:12.47,
+    lnk: "https://techcabal.com/2024/02/21/y-combinators-third-african-pick-is-ocular-ai/",
+    hdl: "Breaking: Y Combinator’s backs Ocular AI, a startup led by Zambian and Zimbabwean cofounders",
+    imgSrc: "https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2024/02/OCular-AI-690x460.jpg",
+    tag: "startup,Ocular,AI",
+  },
+  {
     __ctim: 22.47,
-    lnk: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/?taid=65cfd63a88998b0001e3a4c2&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    lnk: "https://.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/?taid=65cfd63a88998b0001e3a4c2&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
     hdl:"SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports",
     imgSrc: "https://www.reuters.com/resizer/KcwifCag8Jf6uexUUx84dHE3pe4=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XGYF43Q7DRIQ7KRXME2SESRIGE.jpg",
     tag: "AI,chip,venture,funding",
