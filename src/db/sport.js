@@ -2,6 +2,28 @@
 
 const sportdb = [
   {
+    __ctim: 18.52,
+    lnk: "https://thenationonlineng.net/epl-tottenham-edge-out-luton-to-move-into-top-four/?utm_source=dlvr.it&utm_medium=twitter",
+    hdl: "EPL: Tottenham edge out Luton to move into top four",
+    imgSrc: "https://cdn.thenationonlineng.net/wp-content/uploads/2024/03/30182742/Tottenham-1.jpg",
+    tag: "football,EPL,spurs,tottenham,luton town",
+  },
+  {
+    __ctim: 18.47,
+    lnk: "https://thenationonlineng.net/epl-oshea-scores-late-as-10-man-burnley-hold-chelsea/?utm_source=dlvr.it&utm_medium=twitter",
+    hdl: "O’shea scores late as 10-man Burnley hold Chelsea.",
+    imgSrc: "https://cdn.thenationonlineng.net/wp-content/uploads/2024/03/30183342/Chelsea-vs-Burnley.jpg",
+    tag: "football,chelsea,burnley,10-man",
+  },
+  {
+    __ctim: 18.38,
+    lnk: "https://reuters.com/sports/soccer/fulham-fight-back-two-goals-down-earn-3-3-draw-sheffield-united-2024-03-30/?taid=66084c20f963d300011244db&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl: "Fulham fight back from two goals down to earn 3-3 draw at Sheffield United",
+    imgSrc: "",
+    tag: "football,fulham,sheffield united,EPL",
+  },
+
+  {
     __ctim: 3.56,
     lnk: "https://www.reuters.com/sports/soccer/lukaku-earns-roma-draw-feyenoord-2024-02-15/",
     hdl: "Lukaku earns Roma draw at Feyenoord",

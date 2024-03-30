@@ -1,5 +1,19 @@
 const scidb = [
   {
+    __ctim: 19.00,
+    lnk: "https://bbc.com/news/articles/c80k211w7z5o?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_link_origin=BBCScienceNews&at_campaign_type=owned&at_medium=social&at_link_id=74055304-EEBE-11EE-A4B1-C9B44B3AC5C4&at_campaign=Social_Flow&at_link_type=web_link&at_format=link&at_ptr_name=twitter",
+    hdl: "Birth of endangered monkey a sign of hope - zoo",
+    imgSrc: "https://ichef.bbci.co.uk/news/640/cpsprodpb/f3e4/live/4d260660-eeab-11ee-848d-8502df76512f.jpg.webp",
+    tag: "endangered,species,monkey",
+  },
+  {
+    __ctim: 18.19,
+    lnk:"https://newscientist.com/article/2422899-cannabis-vaping-liquids-contain-lead-and-other-toxic-metals/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1711817355",
+    hdl: "Cannabis vaping liquids contain lead and other toxic metals.",
+    imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/03/18182441/SEI_196546591.jpg?width=700",
+    tag: "toxic,cannabis,vaping,vape",
+  },
+  {
     __ctim: 19.26,
     lnk:" https://phys.org/news/2024-02-species-pirate-spiders-south-atlantic.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
     hdl: "New species of pirate spiders discovered on South Atlantic island",
@@ -8,7 +22,7 @@ const scidb = [
   },
   {
     __ctim: 9.37,
-    lnk: "https://www.science.org/content/article/counting-nemo-clownfish-may-be-capable-simple-math?utm_medium=ownedSocial&utm_source=Twitter&utm_campaign=NewsfromScience",
+    lnk: "https://science.org/content/article/counting-nemo-clownfish-may-be-capable-simple-math?utm_medium=ownedSocial&utm_source=Twitter&utm_campaign=NewsfromScience",
     hdl: "Clownfish may be capable of simple math",
     imgSrc: "https://www.science.org/do/10.1126/science.zz4qd8m/full/_20240201_on_clownfish-1706821556973.jpg",
     tag: "clownfish,math,three,ocean,life",
@@ -22,14 +36,14 @@ const scidb = [
   },
   {
     __ctim: 3.38,
-    lnk: "https://www.newscientist.com/article/2416727-bacteria-could-help-turn-co2-to-rock-under-extreme-conditions/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1708046226",
+    lnk: "https://newscientist.com/article/2416727-bacteria-could-help-turn-co2-to-rock-under-extreme-conditions/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1708046226",
     hdl: "Bacteria could help turn CO2 to rock under extreme conditions",
     imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/02/14145226/SEI_191286805.jpg?width=700",
     tag: "biotechnology,microbes,earth",
   },
   {
     __ctim: 3.33,
-    lnk: "https://www.newscientist.com/article/mg26134773-000-why-physicists-are-rethinking-the-route-to-a-theory-of-everything/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1708046225",
+    lnk: "https://newscientist.com/article/mg26134773-000-why-physicists-are-rethinking-the-route-to-a-theory-of-everything/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1708046225",
     hdl: "Why physicists are rethinking the route to a theory of everything",
     imgSrc: "https://images.newscientist.com/wp-content/uploads/2024/02/06160745/final-theory-of-everything.jpg?width=700",
     tag: "theory,everything,physics",
