@@ -2,6 +2,13 @@
 
 const sportdb = [
   {
+    __ctim: 11.12,
+    lnk: "https://dailytrust.com/berrettini-returns-to-atp-tour-with-a-win-in-marrakesh/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1712116520",
+    hdl: "Berrettini Returns To ATP Tour With A Win In Marrakesh",
+    imgSrc: "https://dailytrust.com/wp-content/uploads/2022/06/Matteo-Berrettini.jpg",
+    tag: "ATP,berretini,sport",
+  },
+  {
     __ctim: 18.52,
     lnk: "https://thenationonlineng.net/epl-tottenham-edge-out-luton-to-move-into-top-four/?utm_source=dlvr.it&utm_medium=twitter",
     hdl: "EPL: Tottenham edge out Luton to move into top four",

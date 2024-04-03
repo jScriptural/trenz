@@ -1,5 +1,12 @@
 const scidb = [
   {
+    __ctim: 10.08,
+    lnk: "https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+    hdl: "NASA wants to come up with a new clock for the moon, where seconds tick away faster",
+    imgSrc: "https://scx1.b-cdn.net/csz/news/800a/2024/nasa-wants-to-come-up.jpg?f=webp",
+    tag: "space, astronomy,exploration,moon,time,clock",
+  },
+  {
     __ctim: 19.00,
     lnk: "https://bbc.com/news/articles/c80k211w7z5o?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_link_origin=BBCScienceNews&at_campaign_type=owned&at_medium=social&at_link_id=74055304-EEBE-11EE-A4B1-C9B44B3AC5C4&at_campaign=Social_Flow&at_link_type=web_link&at_format=link&at_ptr_name=twitter",
     hdl: "Birth of endangered monkey a sign of hope - zoo",

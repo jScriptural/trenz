@@ -2,6 +2,27 @@
 
 const busdb = [
   {
+    __ctim: 11.16,
+    lnk: "https://reuters.com/lifestyle/one-oldest-books-existence-expected-fetch-over-26-million-auction-2024-04-02/",
+    hdl: "One of the oldest books in existence expected to fetch over $2.6 million at auction",
+    imgSrc: "",
+    tag: "book,oldest,auction",
+  },
+  {
+    __ctim: 10.34,
+    lnk: "https://reuters.com/markets/commodities/nigerias-oil-marketers-load-products-dangote-refinery-2024-04-02/",
+    hdl: "Nigeria's Dangote refinery supplies petroleum products to local market",
+    imgSrc: "https://www.reuters.com/resizer/v2/2MEDYKIHGJPMTGTVJVU3ABXRMQ.jpg?auth=dd3102d871254377ecd0d7db8696a575224e52f5b8dc45af8652ea7605ad8569&width=960&quality=80",
+    tag: "crude,oil,dangote,refinery,production,petroleum,",
+  },
+  {
+    __ctim: 10.29,
+    lnk: "https://reuters.com/markets/south-african-rand-slips-against-dollar-2024-04-03/",
+    hdl: "South African rand slips against the dollar",
+    imgSrc: "https://www.reuters.com/resizer/v2/Z7OUSBHECZMJVEHQT7G2AZVSQU.jpg?auth=d744de1dff56ce6253e434596633c13e1393904d3c027ad8da01a504cfbeaa64&width=960&quality=80",
+    tag: "forex,fx,rand,usd,dollar,south,africa,fall",
+  },
+  {
     __ctim: 9.27,
     lnk: "https://techpoint.africa/2024/02/16/luno-monthly-proof-reserves-report/",
     hdl: "Luno to release monthly proof of reserves report to gain customer trust",

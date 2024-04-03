@@ -1,8 +1,29 @@
 
 const poldb = [
   {
+    __ctim: 11.06,
+    lnk: "https://reuters.com/world/middle-east/turkey-inflation-hit-685-ahead-election-blow-ruling-party-2024-04-03/?taid=660d251fb085f20001695c05&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl: "Turkey inflation hit 68.5% ahead of election blow to ruling party",
+    imgSrc: "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FSFBRES2NRJMALJBZSHNHOTIIZ4.jpg?auth=d11097b67ef1e48f043eb7752ee08403f129642f7678971b30694beca1eb335e&width=960&quality=80",
+    tag: "election,inflation,ruling-party,turkey",
+  },
+  {
+    __ctim: 10.23,
+    lnk: "https://reuters.com/world/africa/senegal-president-faye-appoints-ally-sonko-prime-minister-2024-04-02/",
+    hdl: "Senegal President Faye appoints ally Sonko as prime minister",
+    imgSrc: "https://www.reuters.com/resizer/v2/QWBEGZQLXZI4FB5OPGV3HHNHC4.jpg?auth=de4d17a730659db3c66214ebe36cb9bd6adbd5b2884a208e8e3aa3a631feed90&width=1200&quality=80",
+    tag: "senegal,bassirou,sonko,darkar,appointment",
+  },
+  {
+    __ctim: 10.18,
+    lnk: "https://reuters.com/world/africa/ugandas-constitutional-court-upholds-anti-homosexuality-law-2024-04-03/?taid=660d13902d12050001adfc8f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl: "Uganda top court declines to block Anti-Homosexuality law but sees rights infringed",
+    imgSrc: "https://www.reuters.com/resizer/v2/74VPRD26DVN4DMBFWYQ3XKZKWM.jpg?auth=4cc299a024fadef84f7bd35a59f0dc57ec0bc91b02c0ee53edf592cfd5659301&width=960&quality=80",
+    tag: "Anti-homosexuality,lgbtq,law,court,uganda",
+  },
+  {
     __ctim: 22.35,
-    lnk: "https://www.reuters.com/world/africa/senegal-factions-should-consult-over-election-timing-government-says-2024-02-16/",
+    lnk: "https://reuters.com/world/africa/senegal-factions-should-consult-over-election-timing-government-says-2024-02-16/",
     hdl: "Senegal's Sall promises to hold delayed presidential vote as soon as possible",
     imgSrc: "https://www.reuters.com/resizer/IcTpijxfIMtpo7aLBdgo2DKD_Do=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWKH3TEQPBMB3L76BFFCI7QQVU.jpg",
     tag: "election,senegal,postpone",

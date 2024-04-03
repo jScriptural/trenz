@@ -1,6 +1,20 @@
 
 const techdb = [
   {
+    __ctim: 10.50,
+    lnk: "https://bbc.com/news/uk-england-devon-68717793?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCNews&at_medium=social&at_link_id=87551B66-F19C-11EE-A438-1BB24B3AC5C4&at_bbc_team=editorial&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_campaign_type=owned&at_format=link",
+    hdl: "Devon university develops AI to detect Asian hornets",
+    imgSrc: "https://ichef.bbci.co.uk/news/640/cpsprodpb/DFC6/production/_133068275_9fc93f88-038e-46b5-89fa-88278b80be86.jpg.webp",
+    tag: "ai,hornet,scientist,technology,VespAI",
+  },
+  {
+    __ctim: 10.44,
+    lnk: "https://thedailystar.net/tech-startup/news/the-race-create-artificial-sun-3581156",
+    hdl: "The race to create an artificial sun",
+    imgSrc: "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/04/03/sun.png",
+    tag: "artificial,sun,ai,technology,solar",
+  },
+  {
     __ctim:12.47,
     lnk: "https://techcabal.com/2024/02/21/y-combinators-third-african-pick-is-ocular-ai/",
     hdl: "Breaking: Y Combinator’s backs Ocular AI, a startup led by Zambian and Zimbabwean cofounders",
