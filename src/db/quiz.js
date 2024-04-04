@@ -1,35 +1,116 @@
 
 export default [
   {
-    q: `What is the name of the President of the Federal republic of Nigeria?`,
-    opts: [ 
-      `Timidabu Muhammed`,
-      `Tim Lie`,
-      `Ashawfu Kashim`,
-      `Bola Ahmed`,
+    q: `Which tennis player recently achieved a record-breaking 24th Grand Slam singles title?`,
+    opts: [
+      `Novak Djokovic`,
+      `Rafael Nadal`,
+      `Iga Swiatek`,
+      `Roger Federer`,
+    ],
+    ans: 1,
+  },
+  {
+    q: `What major space agency successfully launched the first crewed mission to Venus?`,
+    opts: [
+      `NASA`,
+      `ESA(European Space Agency)`,
+      `Roscosmos`,
+      `CNSA(China National Space Administration)`,
     ],
     ans: 3,
   },
   {
-    q: `What year did Nigeria get their independence from the British Empire?`,
+    q: `Which tech giant unveiled a new AI model capable of generating realistic human-quality speech?`,
     opts: [
-      `1960`,
-      `1958`,
-      `1788`,
-      `1967`,
+      `Apple`,
+      `Microsoft`,
+      `Google`,
+      `Meta`,
+    ],
+    ans: 2,
+  },
+  {
+    q: `A new report by the IPCC (International Panel on Climate Change) warned of:`,
+    opts: [
+      `Slowing pace of global warming`,
+      `Increasing frequency of extreme weather events`,
+      `Discovery of a new greenhouse gas`,
+      `Benefits of rising global temperature`,
+    ],
+    ans: 1,
+  },
+  {
+    q: `Which countries signed a historic peace agreement ending a decades-long conflict?`,
+    opts: [
+      `North and South Korea`,
+      `Israel and Palestine`,
+      `Ethiopia and Eritrea`,
+      `Colombia and FARC rebels`,
+    ],
+    ans: 2,
+  },
+  {
+    q: `Which country won the 2023 FIFA Women's World Cup?`,
+    opts: [
+      `United States of America`,
+      `France`,
+      `Spain`,
+      `England`,
     ],
     ans: 0,
   },
   {
-    q: `In what year did Putin become the president of Russia?`,
+    q: `The 2024 Summer olympics will be held in which city?`,
     opts: [
-      `1990`,
-      `2001`,
-      `2000`,
-      `2020`,
+      `Paris, France`,
+      `Tokyo, Japan`,
+      `Los Angeles, USA`,
+      `Beijing, China`,
     ],
-    ans: 2,
+    ans: 0,
   },
+  {
+    q: `Who won the 2023 Nobel Prize in Physics for their groundbreaking work in quantum computing?`,
+    opts: [
+      `Jennifer Dougna`,
+      `Roger Penrose`,
+      `Christopher A. Sims`,
+      `Feryal Özel`,
+    ],
+    ans: 1,
+  },
+  {
+    q: `Which technology company recently surpassed a trillion-dollar valuation, becoming the first publicly traded company to do so?`,
+    opts: [
+      `Apple Inc.`,
+      `Amazon.com Inc.`,
+      `Alphabet Inc.`,
+      `Microsoft Corporation`,
+    ],
+    ans: 0,
+  },
+  {
+    q: `Who won the 2023 Nobel Peace Prize for their efforts in promoting women's rights and gender equality?`,
+    opts: [
+      `Malala Yousafzai`,
+      `Greta Thunberg`,
+      `Jacinda Ardern`,
+      `Angela Merkel`,
+    ],
+    ans: 0,
+  },
+  {
+    q: `What major breakthrough in medical science was announced in 2023, showing promising results in the treatment of Alzheimer's disease?`,
+    opts: [
+      `Gene editing therapy`,
+      `mRNA vaccine technology`,
+      `Nanotechnology-based drug delivery`,
+      `Monoclonal antibody therapy`,
+    ],
+    ans: 0,
+  },
+  //old quiz
   {
     q: `What is the term for a political system where power is vested in the hands of a single individual or a small group?`,
     opts: [
@@ -61,26 +142,6 @@ export default [
     ans: 0,
   },
   {
-    q: `What is the process by which cells break down glucose to release energy in the absence of oxygen?`,
-    opts: [
-      `Photosynthesis`,
-      `Aerobic respiration`,
-      `Anaerobic respiration`,
-      `Glycolysis`,
-    ],
-    ans: 2,
-  },
-  {
-    q: `Which political ideology advocates for the abolition of all government and the establishment of a society based on voluntary cooperation?`,
-    opts: [
-      `Socialism`,
-      `Anarchism`,
-      `Fascism`,
-      `Totalitarianism`,
-    ],
-    ans: 1,
-  },
-  {
     q: `What financial metric is calculated by dividing a company's net income by its total number of outstanding shares?`,
     opts: [
       `Earning per share(EPS)`,
@@ -101,16 +162,6 @@ export default [
     ans: 1,
   },
   {
-    q: `The James Webb Space Telescope recently captured the deepest and sharpest infrared image of the universe ever. What phenomenon does this technology allow scientists to study more effectively?`,
-    opts: [
-      `Gravitational waves`,
-      `Dark matter and dark energy`,
-      `Formation of galaxies`,
-      `Composition of distant planets`,
-    ],
-    ans: 0,
-  },
-  {
     q:`Which vitamin is essential for the absorption of calcium in the body?`,
     opts: [
       `Vitamin A`,
@@ -121,16 +172,6 @@ export default [
     ans: 2,
   },
   {
-    q: `In American football, what is the term for a successful forward pass caught in the end zone for a touch down?`,
-    opts: [
-      `Hail Mary`,
-      `Flea flicker`,
-      `Interception`,
-      `Touchdown reception`,
-    ],
-    ans: 3,
-  },
-  {
     q:`What is the name of the first social media platform to reach one billion users?`,
     opts: [
       `Twitter`,
@@ -139,16 +180,6 @@ export default [
       `Snapchat`,
     ],
     ans: 1,
-  },
-  {
-    q: `Which sport holds the Summer Olympics record for most medals won by a single athlete?`,
-    opts: [
-      `Swimming`,
-      `Gymnastics`,
-      `Track and field`,
-      `Boxing`,
-    ],
-    ans: 0,
   },
   {
     q: `What part of the human brain is responsible for processing emotions?`,
@@ -169,36 +200,6 @@ export default [
       `Brazil`,
     ],
     ans: 3,
-  },
-  {
-    q: `In tennis,who holds the record for the most Grand Slam singles titles?`,
-    opts: [
-      `Roger Federer`,
-      `Rafael Nadal`,
-      `Novak Djokovic`,
-      `Serena Williams`,
-    ],
-    ans: 2,
-  },
-  {
-    q: `Which company is the largest retailer in the world by revenue?`,
-    opts: [
-      `Walmart`,
-      `Amazon`,
-      `Alibaba`,
-      `Costco`,
-    ],
-    ans: 0,
-  },
-  {
-    q: `Who won the coveted "Album of the Year" award at the 65th Grammy Awards in February 2024?`,
-    opts: [
-      `Beyonce`,
-      `Kendrick Lamar`,
-      `Harry Styles`,
-      `Bad Bunny`,
-    ],
-    ans: 2,
   },
 ]
 
