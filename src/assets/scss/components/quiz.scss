@@ -17,7 +17,7 @@
     h1,span {
       color: $off-white;
       font: {
-	family: poppins;
+	//family: poppins;
 	weight: 600;
 	size: 1.5rem;
       }
@@ -31,7 +31,7 @@
 
   .main {
     margin-bottom: 1rem;
-    font-family: poppins;
+    //font-family: poppins;
   }
 
   .btn-con {
@@ -43,14 +43,14 @@
     .btn {
       //border: 1px solid $teal;
       border: none;
-      padding: .4rem 2.1rem;
+      padding: .6rem 2.1rem;
       text-align: center;
       border-radius: .5rem;
       transition: all .3s;
       font: {
-	family: poppins;
+	family: philosopher;
 	size: 1.2rem;
-	weight: 400;
+	weight: bold;
       }
     }
     .next {

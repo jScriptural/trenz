@@ -5,7 +5,7 @@
   color: $teal;
   box-shadow: 0px 4px 2px $grayish-blue;
   &>* { 
-    font-family: poppins;
+    //font-family: poppins;
     font-weight: 500;
   }
   transform: scale(1.02);
@@ -19,9 +19,9 @@
     //border: 1px solid yellow;
     padding: 1rem;
     p {
-      font-family: Poppins;
+      //font-family: Poppins;
       font-weight: 500;
-      //font-size: 1.2rem;
+      font-size: 1.2rem;
     }
   }
   .options-con {
@@ -33,6 +33,7 @@
       list-style: none;
 
       li {
+	//font-size: 1.2rem;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;

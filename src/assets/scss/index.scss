@@ -48,7 +48,7 @@ img {
 }
 
 h1,h2,h3{
-  font-family: Inter;
+  //font-family: Inter;
   font-weight: 600;
   font-size: 1.4rem;
   color: $very-dark-blue;
@@ -67,6 +67,13 @@ body {
    min-height: 100vh;
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 100,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24,
+}
 
 @import "components/header";
 @import "components/hero";
@@ -76,3 +83,5 @@ body {
 @import "components/quiz";
 @import "components/quizcard";
 @import "components/result";
+@import "components/spotlight";
+@import "components/article";

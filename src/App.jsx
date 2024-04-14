@@ -10,7 +10,9 @@ import Technology  from "./components/categories/Technology.jsx";
 import Business  from "./components/categories/Business.jsx";
 import Politics  from "./components/categories/Politics.jsx";
 import Sport from "./components/categories/Sport.jsx";
+import Spotlight from "./components/spotlight/Spotlight.jsx";
 
+import Article  from "./components/spotlight/Article.jsx";
 
 
 function App() {
@@ -26,6 +28,8 @@ function App() {
       <Route path="/politics" element={< Politics />} />
       <Route path="/sports" element={< Sport />} />
       <Route path="/science" element={< Science />} />
+      <Route path="/spotlight" element={< Spotlight />} />
+      <Route path="/spotlight/:article" element={< Article />} /> 
       <Route path="/quiz" element={<AnsContext>< Quiz /> </AnsContext>} />
     </Routes>
     <Footer />

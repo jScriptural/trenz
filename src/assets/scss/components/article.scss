@@ -1,0 +1,66 @@
+
+
+#article {
+ // border: 1px solid red;
+  margin-bottom: 100%;
+  .switch-lang {
+    position: fixed;
+    bottom: 0.8rem;
+    padding-left: 1rem;
+    button {
+      border: 2px double $teal;
+      border-radius: .5rem;
+      background-color: transparent;
+      backdrop-filter: blur(1rem);
+      //font-size: 1.rem;
+      font-family: philosopher;
+      color: $teal;
+      padding: .5rem 1.5rem;
+      text-align: center;
+      font-weight: bold;
+      transition: border .3s;
+      &:hover {
+	cursor: pointer;
+      }
+    }
+  }
+  .title {
+    padding: 1rem;
+    background-color: $very-dark-blue;
+    color: $teal;
+    h1 {
+      color: $teal;
+    }
+    h4 {
+      color: $grayish-blue;
+    }
+  }
+  main {
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: justify;
+    &:first-letter {
+      color: $teal;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+  }
+  .icymi-con {
+    //border: 1px solid red;
+    h3 {
+      color: $teal;
+      font-weight: bold;
+    }
+    margin-top: 1rem;
+    .icymi {
+      padding-left: 1rem;
+      li {
+	font-size: 1.2rem;
+	list-style: inside circle;
+      }
+    }
+  }
+
+}
+
+
