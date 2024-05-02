@@ -13,10 +13,10 @@ export default function Article(props){
       setLangPref("pidgin");
     else
       setLangPref("eng");
-    console.log("clicked");
+   // console.log("clicked");
   }
   const param= params.article.replaceAll("-","_").toLowerCase();
-  console.log(param);
+ // console.log(param);
 
   useEffect(()=>{
     window.scrollTo({
@@ -24,10 +24,13 @@ export default function Article(props){
       top: 0,
       left: 0,
     });
+
     if(langPref == "eng"){
       mainRef.current.innerHTML = article[param].html;
     }else if(article[param].pidginAvail){
       mainRef.current.innerHTML = article[param].pidginHtml;
+    }else {
+      setLangPref("eng");
     }
 
   },[langPref,param]);

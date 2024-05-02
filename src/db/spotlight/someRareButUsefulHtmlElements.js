@@ -146,7 +146,7 @@ The <code>list</code> attribute of the <code>&lt;input&gt;</code> is set to the 
   &lt;&frasl;datalist&gt;
 </pre>
 </div>
-<p>The <code>&lt;datalist&gt;</code> is fully suported by the latest versions of all modern browsers except Firefox where it is only partially supported.</p>
+<p>The <code>&lt;datalist&gt;</code> is fully supported by the latest versions of all modern browsers except Firefox where it is only partially supported.</p>
 
   </section>`,
   bait: `Most developers are familiar with common HTML elements like <div>, <p> and <section>, there are several lesser-known HTML elements that offer unique functionality and can greatly enhance user experience and optimize your site for search engines.

@@ -2,13 +2,6 @@
 
 const busdb = [
   {
-    __ctim: 11.16,
-    lnk: "https://reuters.com/lifestyle/one-oldest-books-existence-expected-fetch-over-26-million-auction-2024-04-02/",
-    hdl: "One of the oldest books in existence expected to fetch over $2.6 million at auction",
-    imgSrc: "",
-    tag: "book,oldest,auction",
-  },
-  {
     __ctim: 10.34,
     lnk: "https://reuters.com/markets/commodities/nigerias-oil-marketers-load-products-dangote-refinery-2024-04-02/",
     hdl: "Nigeria's Dangote refinery supplies petroleum products to local market",

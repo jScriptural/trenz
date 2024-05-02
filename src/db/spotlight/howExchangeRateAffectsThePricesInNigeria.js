@@ -3,7 +3,7 @@
 //hsl(233,8%,79%);
 export default {
   title: "HOW EXCHANGE RATE AFFECT PRICES IN NIGERIA: A SIMPLE, NON-TECHNICAL EXPLANATION",
-  html: `<p>In Nigeria, the recent surge in prices of commodities is attributed to the fluctuations in value of the naira in relation to other currencies e.g the dollar.<br />
+  html: `<p>The recent surge in prices of commodities in Nigeria, is attributed to the fluctuatins of the naira in relation to other currencies e.g the dollar.<br />
   One may wonder how the value of the dollar in relation to the naira contributes to the changing prices of commodities in Nigeria.<br/>
 Before delving into how exchange rate affects the prices of goods in Nigeria, We must take a detour to understand what exchage rate is and the factors affecting the exchange rate of a currency.<br /><br />
 The exchange rate of a currency determines how much of one currency you can buy with another.
