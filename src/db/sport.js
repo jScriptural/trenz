@@ -2,6 +2,13 @@
 
 const sportdb = [
   {
+    __ctim: "2024-08-25T11:19",
+    lnk: "https://www.reuters.com/sports/cricket/englands-wood-ruled-out-sri-lanka-series-2024-08-25/?taid=66caff771f937b000116b105&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    hdl: "England's Wood ruled out of Sri Lanka series",
+    imgSrc: "https://www.reuters.com/resizer/v2/36E7BLANOJOBVGAKKIZNSRVHF4.jpg?auth=ca97d62a59c64b8e89716edaef0357f311db5e4cc4040b5b7d931caaaa9b837f&width=720&quality=80",
+    tag: "Mark Wood,cricket",
+  },
+  {
     __ctim: 11.12,
     lnk: "https://dailytrust.com/berrettini-returns-to-atp-tour-with-a-win-in-marrakesh/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1712116520",
     hdl: "Berrettini Returns To ATP Tour With A Win In Marrakesh",
@@ -135,13 +142,6 @@ const sportdb = [
     imgSrc: "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/ekong-troost-player.jpeg ",
     tag: "sport",
   },
-  {
-    __ctim:12333,
-    lnk: "https://www.vanguardngr.com/2024/02/afcon-2023-peseiro-should-be-sacked-peterside/ ",
-    hdl: "AFCON 2023: Peseiro should be sacked — Peterside ",
-    imgSrc:"https://cdn.vanguardngr.com/wp-content/uploads/2024/01/Peseiro.webp ",
-    tag:"sport",
-  }
 ];
 
 export default sportdb;

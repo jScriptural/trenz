@@ -1,6 +1,13 @@
 
 const poldb = [
   {
+    __ctim: "25-08-2024T11:16",
+    lnk: "https://channelstv.com/2024/08/25/telegram-owner-pavel-durov-arrested-at-french-airport/",
+    hdl: "Telegram Owner Pavel Durov Arrested At French Airport",
+    imgSrc: "https://www.channelstv.com/wp-content/uploads/2024/08/Pavel-Durov.jpg",
+    tag: "free speech, France, Durov, Telegram",
+  },
+  {
     __ctim: 11.06,
     lnk: "https://reuters.com/world/middle-east/turkey-inflation-hit-685-ahead-election-blow-ruling-party-2024-04-03/?taid=660d251fb085f20001695c05&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
     hdl: "Turkey inflation hit 68.5% ahead of election blow to ruling party",
@@ -167,27 +174,6 @@ const poldb = [
     hdl: "Bandits have killed two policemen, and two other residents and abducted about forty persons in an attack on Kasuwa-Daji Town under the Kaura-Namoda Local Government Area in Zamfara State. ",
     imgSrc: "https://www.channelstv.com/wp-content/uploads/2021/09/Gunmen-Gunmennnnnnnnnnnnnnnn2.jpg",
     tag: "security",
-  },
-  {
-    __ctim: 12467,
-    lnk: "https://www.channelstv.com/2024/02/13/senegal-protest-march-over-vote-delay-postponed/",
-    hdl: "Senegal Protest March Over Vote Delay Postponed",
-    imgSrc: "https://www.channelstv.com/wp-content/uploads/2024/02/Senegal-Protest.jpg",
-    tag:"politics",
-  },
-  {
-    __ctim: 23444,
-    lnk: "https://www.channelstv.com/2024/02/13/indian-police-fire-tear-gas-as-protesting-farmers-march-to-capital/",
-    hdl: "Indian Police Fire Tear Gas As Protesting Farmers March To Capital",
-    imgSrc: "https://www.channelstv.com/wp-content/uploads/2024/02/India-protest.jpg",
-    tag: "politics",
-  },
-  {
-    __ctim:12456,
-    lnk: "https://www.reuters.com/world/us/democratic-senator-raises-concerns-about-biden-campaign-decision-join-tiktok-2024-02-12/",
-    hdl: "Democratic senator raises concerns about Biden campaign decision to join TikTok",
-    imgSrc: "https://www.reuters.com/resizer/D3VA7Nk1hHUgKMC4P2pTG03ScXw=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IU4NWPV4EZP7FLQSX4LYONUUWI.jpg",
-    tag: "politics",
   },
 ];
 

@@ -1,6 +1,13 @@
 
 const techdb = [
   {
+    __ctim: "2024-08-25T11:37",
+    lnk: "https://pcmag.com/news/second-human-to-receive-neuralink-brain-chip-uses-it-to-play-counter-strike",
+    hdl: "Second Human to Receive Neuralink Brain Chip Uses It to Play Counter-Strike 2",
+    imgSrc: "https://i.pcmag.com/imagery/articles/00cNymPU5XvDlukuwonBa9p-1.fit_lim.size_850x490.v1724275742.jpg",
+    tag: "neuralink, brain chip, counter strike",
+  },
+  {
     __ctim: 10.50,
     lnk: "https://bbc.com/news/uk-england-devon-68717793?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCNews&at_medium=social&at_link_id=87551B66-F19C-11EE-A438-1BB24B3AC5C4&at_bbc_team=editorial&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_campaign_type=owned&at_format=link",
     hdl: "Devon university develops AI to detect Asian hornets",
